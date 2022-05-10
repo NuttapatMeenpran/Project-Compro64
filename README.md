@@ -6,8 +6,11 @@
 3.   นาย วรดร น้อยนงเยาว์ 64070097 
 
 ## อุปกรณ์ที่ใช้ในวงจร
+
 ![circuits_boverview](overview.PNG)
 1. บอร์ด Arduino Uno
 2. หน้าจอ LCD
 3. Keypad
-4. Servomotor
+4. Servomotor<br/>
+###
+[**การจำลองของการทำงานผ่าน wokwi**](https://wokwi.com/projects/331188136017134163)
