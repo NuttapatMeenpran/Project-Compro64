@@ -14,3 +14,5 @@
 4. Servomotor<br/>
 ###
 [**การจำลองของการทำงานผ่าน wokwi**](https://wokwi.com/projects/331188136017134163)
+## Project Poster
+![poster](poster.png)
