@@ -1,4 +1,5 @@
-# 6-digits password input arduino-Compro64
+# การเข้ารหัสหกหลักในคีย์แพดค้วย Arduino (Six Digits Password Keypad With Arduino)
+โปรเจกต์นี้เป็นส่วนหนึ่งของวิชา Computer Programming หลักสูตรเทคโนโลยีสารสนเทศ ปีการศึกษา 2564
 ## จัดทำโดย
 1.   นาย ณัชนนท์ เรืองศรีนราพร 64070027
 2.   นาย นัธพัฒน์ หมีนพราน 64070056
