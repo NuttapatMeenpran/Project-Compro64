@@ -1,5 +1,5 @@
 # การเข้ารหัสหกหลักในคีย์แพดด้วย Arduino <br />(Six Digits Password Keypad With Arduino)
-โปรเจกต์นี้เป็นส่วนหนึ่งของวิชา Computer Programming หลักสูตรเทคโนโลยีสารสนเทศ ปีการศึกษา 2564
+>โปรเจกต์นี้เป็นส่วนหนึ่งของวิชา Computer Programming หลักสูตรเทคโนโลยีสารสนเทศ ปีการศึกษา 2564
 ## อุปกรณ์ที่ใช้ในวงจร
 
 ![circuits_boverview](overview.PNG)
