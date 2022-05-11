@@ -23,6 +23,7 @@
 ## Video
 ## Project Poster
 ![poster](poster.png)
+https://www.canva.com/design/DAFATXJFm-k/_SNS0IO3fQwjZxQrfDl9wg/view?utm_content=DAFATXJFm-k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## จัดทำโดย
 1.   นาย ณัชนนท์ เรืองศรีนราพร 64070027
 2.   นาย นัธพัฒน์ หมีนพราน 64070056
