@@ -21,6 +21,7 @@
 >-   เข้ารหัสถูกหน้าจอจะแสดงกลับไปที่หน้าแรก
 >-   เข้ารหัสผิดหน้าจอจะแสดงErrorและวนกลับมาหน้าเข้ารหัสใหม่
 ## Video
+https://youtu.be/BpS9IaqjHBU
 ## Project Poster
 ![poster](poster.png)
 https://www.canva.com/design/DAFATXJFm-k/_SNS0IO3fQwjZxQrfDl9wg/view?utm_content=DAFATXJFm-k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
